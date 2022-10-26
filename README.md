@@ -1,4 +1,4 @@
-# C-ETH-Cuzdan-Olusturma-Algoritmasi
+# ASP.NET-ETH-Cuzdan-Olusturma-Algoritmasi
 Eth Cüzdan Olşuturma
 Eliptik Eğri Dijital İmza Algoritması (ECDSA) ve SECP256K1 kullanılarak üretilmiştir. 
 Açık kaynak kodulu Neteherum'dan derlenmiştir.
